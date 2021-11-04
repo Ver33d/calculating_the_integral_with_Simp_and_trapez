@@ -1,0 +1,2 @@
+# calculating_the_integral_with_Simp_and_trapez
+ 
